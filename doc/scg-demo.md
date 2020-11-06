@@ -14,7 +14,7 @@
 1. 编译打包
 ```
 cd ./tsf-demo-simple/provider-demo
-mvn clean complie install
+mvn clean compile install
 ```
 2. 启动应用
 ```
@@ -28,7 +28,7 @@ java -jar provider-demo-xxx.jar
 1. 编译打包
 ```
 cd ./tsf-demo-simple/scg-demo
-mvn clean complie install
+mvn clean compile install
 ```
 2. 启动应用
 ```
